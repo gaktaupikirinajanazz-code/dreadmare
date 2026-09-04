@@ -2,6 +2,7 @@
   "tokens": [
     "8995765594:AAEPzX007ALmF0GPVVxW03wudl8nVUDwzXo",
     "8735683444:AAFC4ymGsrXvWvADtmYuRuiAFQrXh8HVMtg",
-    "8964569346:AAFgkpJ2-zi0ZGTZCdfXis9-zxsdXqzbLts"
+    "8964569346:AAFgkpJ2-zi0ZGTZCdfXis9-zxsdXqzbLts",
+    "8764715722:AAFlG50VSPwz9fTMLnrcqeCxHFq0wuvVMUo"
   ]
 }
